@@ -44,7 +44,7 @@ Built with a modular architecture: data fetching, analytics, visualizations, and
 > Run locally with demo data — no API key required!
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/air-quality-monitor.git
+git clone https://github.com/3shreya/air-quality-monitor.git
 cd air-quality-monitor
 pip install -r requirements.txt
 streamlit run app.py
@@ -64,7 +64,7 @@ Then open `http://localhost:8501` in your browser and check **"Use Demo Data"** 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/air-quality-monitor.git
+git clone https://github.com/3shreya/air-quality-monitor.git
 cd air-quality-monitor
 
 # 2. Create a virtual environment (recommended)
